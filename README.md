@@ -23,6 +23,9 @@ ________________________________________________________________________________
 
 # Image Watermark Flask App
 
+![image](https://github.com/Bogwhite4990/Watermark-Photo/assets/103454208/6ed66432-4465-4857-8d41-0d4f19790287)
+
+
 This is a Python Flask application that allows users to upload an image (PNG or JPG), add a watermark based on the provided text, save the watermarked image, and display it on the webpage.
 
 ## Prerequisites

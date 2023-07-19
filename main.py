@@ -31,7 +31,7 @@ class WatermarkApp:
         # Get the text input from the entry field
         text_input = self.text_entry.get()
 
-        # Open the image file
+        # Open the image file.
         try:
             img = Image.open(self.file_path)
         except Exception as e:
